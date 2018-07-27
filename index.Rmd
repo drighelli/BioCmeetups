@@ -1,11 +1,4 @@
 ---
 site: blogdown:::blogdown_site
 ---
-```{r, echo=FALSE}
-
-```
-
-```{r}
-
-```
 
